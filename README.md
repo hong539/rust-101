@@ -98,6 +98,7 @@ vim intro1.rs
 
 ## Docs/Guides/Tips/MISC/...etc
 
+* [github.com/microsoft/RustTraining](https://github.com/microsoft/RustTraining)
 * Rust by Example
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 * Books
